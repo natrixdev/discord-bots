@@ -1,6 +1,3 @@
-// Here is an example code to create a simple Discord bot that responds to the "!help" command with the message "Help!":
-
-
 const Discord = require('discord.js');
 const client = new Discord.Client();
 
